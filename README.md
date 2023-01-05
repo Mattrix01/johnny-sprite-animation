@@ -1,2 +1,4 @@
-# johnny-sprite-animation
-test mapping out sprite sheet for new game, data structure etc.
+# Sprite practicing for animation-game
+
+First sprite sheet experiment
+Using data structures
