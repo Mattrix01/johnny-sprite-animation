@@ -124,3 +124,7 @@ function animate() {
   requestAnimationFrame(animate);
 }
 animate();
+
+// window.onload = function () {
+//   document.getElementById("audio").play();
+// };
